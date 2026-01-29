@@ -1,4 +1,5 @@
-# SIB Community Days @ ECCB2026 - Single-cell and spatial data FAIRification, community standards and training
+# SIB Community Days @ ECCB2026
+## Single-cell and spatial data FAIRification, community standards and training
 
 SIB Community Days meeting at [ECCB2026](https://eccb2026.org/)
 
