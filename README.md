@@ -1,11 +1,7 @@
 # SIB Community Days @ ECCB2026
 ## Single-cell and spatial data FAIRification, community standards and training
 
-SIB Community Days meeting at [ECCB2026](https://eccb2026.org/)
-
-***
-
-2026, September 4th (Friday)
+SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday)
 
 <br/>
 
@@ -22,13 +18,9 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 # <img border="0" src="https://www.svgrepo.com/show/530440/clipboard-check.svg" width="40" height="40" style="vertical-align:middle;"> Registration
 
-***
-
 You can register to the event through this Google Form.
 
 # <img border="0" src="https://www.svgrepo.com/show/20800/event-date-and-time-symbol.svg" width="40" height="40" style="vertical-align:middle;"> Date
-
-***
 
 2026.09.04
 
@@ -36,15 +28,12 @@ You can register to the event through this Google Form.
 
 # <img border="0" src="https://www.svgrepo.com/show/4199/placeholder-on-a-map.svg" width="40" height="40" style="vertical-align:middle;"> Location
 
-***
-
 [CICG congress venue in Geneva](https://eccb2026.org/practical-information#venue)
 
 <br/>
 
 # <img border="0" src="https://www.svgrepo.com/show/158264/schedule.svg" width="40" height="40" style="vertical-align:middle;"> Programme
 
-***
 - **09:00 – 09:10**: **Introduction - General info**
 - **09:10 – 09:20**: **Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization**
 - **09:20 – 10:20**: **Single-cell data and metadata standard for dataset deposition over multiple international resources**
@@ -61,8 +50,6 @@ You can register to the event through this Google Form.
 <br/>
 
 # <img border="0" src="https://www.svgrepo.com/show/38706/group-of-people.svg" width="40" height="40" style="vertical-align:middle;"> Staff
-
-***
 
 ## Lecturers:
 
