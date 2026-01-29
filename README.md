@@ -5,7 +5,7 @@ SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, Septembe
 
 # <img border="0" src="https://www.svgrepo.com/download/435781/badge.svg" width="30" height="30" style="vertical-align:middle;"> Registration
 
-You can register to the event through this Google Form.
+You can register to the event through this [Google Form](https://forms.gle/9QVaxfWB6YQ34Kcz6).
 
 # <img border="0" src="https://www.svgrepo.com/download/435930/register.svg" width="30" height="30" style="vertical-align:middle;"> Summary
 
