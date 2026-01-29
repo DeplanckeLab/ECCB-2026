@@ -3,11 +3,11 @@
 
 SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday)
 
-# <img border="0" src="https://www.svgrepo.com/download/435781/badge.svg" width="40" height="40" style="vertical-align:middle;"> Registration
+# <img border="0" src="https://www.svgrepo.com/download/435781/badge.svg" width="30" height="30" style="vertical-align:middle;"> Registration
 
 You can register to the event through this Google Form.
 
-# <img border="0" src="https://www.svgrepo.com/download/435930/register.svg" width="40" height="40" style="vertical-align:middle;"> Summary
+# <img border="0" src="https://www.svgrepo.com/download/435930/register.svg" width="30" height="30" style="vertical-align:middle;"> Summary
 
 In recent years, single-cell and spatial transcriptomics has become a widely used technology to study heterogeneous and dynamic biological systems. <br/>
 This workshop aims to bring together the ELIXIR Single-Cell Omics Community and the scFAIR consortium to align ongoing efforts, advance FAIR standards, and strengthen international collaboration around best practices and trainings in single-cell and spatial omics.
@@ -20,19 +20,19 @@ More information about the community: [https://elixir-europe.org/communities/sin
 The Deplancke and Robinson-Rechavi/Bastian SIB groups have together launched in 2023 the scFAIR consortium, for FAIRification of single-cell metadata, data exchange formats and platforms, reproducible worflows for single-cell analyses. The consortium includes members from other important international resources, such as CELLxGENE (funded by the Chan Zuckerber Initiative). The consortium meets once a month remotely to discuss, e.g., metadata schema, ontologies to use, shared annotation efforts of major datasets.
 This event is a perfect opportunity to gather participants face-to-face, to improve the consortium recommendations, underlying tools, and collaboration between international single-cell resources.
 
-# <img border="0" src="https://www.svgrepo.com/show/20800/event-date-and-time-symbol.svg" width="40" height="40" style="vertical-align:middle;"> Date
+# <img border="0" src="https://www.svgrepo.com/show/20800/event-date-and-time-symbol.svg" width="30" height="30" style="vertical-align:middle;"> Date
 
 2026.09.04 from 09:00 AM to 04:00 PM (Swiss time, CEST / GMT+2)
 
 <br/>
 
-# <img border="0" src="https://www.svgrepo.com/show/4199/placeholder-on-a-map.svg" width="40" height="40" style="vertical-align:middle;"> Location
+# <img border="0" src="https://www.svgrepo.com/show/4199/placeholder-on-a-map.svg" width="30" height="30" style="vertical-align:middle;"> Location
 
 [CICG congress venue in Geneva](https://eccb2026.org/practical-information#venue)
 
 <br/>
 
-# <img border="0" src="https://www.svgrepo.com/show/158264/schedule.svg" width="40" height="40" style="vertical-align:middle;"> Programme
+# <img border="0" src="https://www.svgrepo.com/show/158264/schedule.svg" width="30" height="30" style="vertical-align:middle;"> Programme
 
 - **09:00 – 09:10**: **Introduction - General info**
 - **09:10 – 09:20**: **Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization**
@@ -49,7 +49,7 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 <br/>
 
-# <img border="0" src="https://www.svgrepo.com/show/38706/group-of-people.svg" width="40" height="40" style="vertical-align:middle;"> Staff
+# <img border="0" src="https://www.svgrepo.com/show/38706/group-of-people.svg" width="30" height="30" style="vertical-align:middle;"> Staff
 
 ## Lecturers:
 
