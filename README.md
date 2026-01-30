@@ -1,7 +1,7 @@
 # SIB Community Days @ ECCB2026
 ## Single-cell and spatial data FAIRification, community standards and training
 
-SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday)
+SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday) 
 
 # <img border="0" src="https://www.svgrepo.com/download/435781/badge.svg" width="30" height="30" style="vertical-align:middle;"> Registration
 
