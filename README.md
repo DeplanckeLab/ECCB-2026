@@ -1,13 +1,13 @@
 # SIB Community Days @ ECCB2026
 ## Single-cell and spatial data FAIRification, community standards and training
 
-SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday) 
+SIB Community Days meeting at [ECCB2026](https://eccb2026.org/) - 2026, September 4th (Friday)
 
-# <img border="0" src="https://www.svgrepo.com/download/435781/badge.svg" width="30" height="30" style="vertical-align:middle;"> Registration
+# <img border="0" src="https://www.svgrepo.com/show/435781/badge.svg" width="30" height="30" style="vertical-align:middle;"> Registration
 
 You can register to the event through this [Google Form](https://forms.gle/9QVaxfWB6YQ34Kcz6).
 
-# <img border="0" src="https://www.svgrepo.com/download/435930/register.svg" width="30" height="30" style="vertical-align:middle;"> Summary
+# <img border="0" src="https://www.svgrepo.com/show/435930/register.svg" width="30" height="30" style="vertical-align:middle;"> Summary
 
 In recent years, single-cell and spatial transcriptomics has become a widely used technology to study heterogeneous and dynamic biological systems. <br/>
 This workshop aims to bring together the ELIXIR Single-Cell Omics Community and the scFAIR consortium to align ongoing efforts, advance FAIR standards, and strengthen international collaboration around best practices and trainings in single-cell and spatial omics.
