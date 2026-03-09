@@ -82,11 +82,11 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 - __*Frédéric Bastian*__, Associate Director [Evolutionary Bioinformatics](https://www.sib.swiss/fr/marc-robinson-rechavi-frederic-bastian-groupe), [SIB Swiss Institute of Bioinformatics](https://www.sib.swiss/), [University of Lausanne](https://www.unil.ch/), scFAIR, Bgee, Lausanne, 🇨🇭 Switzerland
 - __*Wen Chen*__, highthroughput data curation team lead, [California Institute of Technology](https://www.caltech.edu/), Alliance of Genome Resources, Pasadena, 🇺🇸 USA
-- __*Emily Clark*__, Genome Analysis Team Leader, [EMBL-EBI](https://www.ebi.ac.uk/), FAANG, Cambridge, 🇬🇧 United Kingdom
 - __*Christina Ernst*__, Functional Genomics Team Leader, [EMBL-EBI](https://www.ebi.ac.uk/), EBI Single Cell Expression Atlas, Cambridge, 🇬🇧 United Kingdom
 - __*Vincent Gardeux*__, Senior Scientist, [EPFL](https://www.epfl.ch/en/), scFAIR, ASAP, Lausanne, 🇨🇭 Switzerland
 - __*Georgios Gavriilidis*__, Senior Postdoctoral Fellow, [Berlin Institute of Health](https://www.bihealth.org/), ELIXIR Germany, SCO community lead, Berlin, 🇩🇪 Germany
 - __*Jason Hilton*__, Senior Research Engineer, [Standford University](https://www.stanford.edu/), CELLxGENE, Stanford, 🇺🇸 USA
+- __*Garth Ilsley*__, Ensembl Regulation Project Leader, [EMBL-EBI](https://www.ebi.ac.uk/), FAANG, Cambridge, 🇬🇧 United Kingdom
 - __*Eija Korpelainen*__, Training Coordinator, [CSC - IT Center for Science](https://csc.fi/en/), ELIXIR Finland, SCO community, Espoo, 🇫🇮 Finland
 - __*Kevin Rue-Albrecht*__, Software Sustainability Institute Fellow, [University of Oxford](https://www.ox.ac.uk/), Oxford, 🇬🇧 United Kingdom
 
