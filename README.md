@@ -87,6 +87,7 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 - __*Georgios Gavriilidis*__, Senior Postdoctoral Fellow, [Berlin Institute of Health](https://www.bihealth.org/), ELIXIR Germany, SCO community lead, Berlin, 🇩🇪 Germany
 - __*Jason Hilton*__, Senior Research Engineer, [Standford University](https://www.stanford.edu/), CELLxGENE, Stanford, 🇺🇸 USA
 - __*Garth Ilsley*__, Ensembl Regulation Project Leader, [EMBL-EBI](https://www.ebi.ac.uk/), FAANG, Cambridge, 🇬🇧 United Kingdom
+- __*Sabrina Jagot*__, Post-doctoral fellow, [Institut NeuroMyoGene - MéLiS](https://melis-lyon.fr/en/home/), CNRS UMR5284 UCBL, 🇫🇷 IFB/ELIXIR-France.
 - __*Eija Korpelainen*__, Training Coordinator, [CSC - IT Center for Science](https://csc.fi/en/), ELIXIR Finland, SCO community, Espoo, 🇫🇮 Finland
 - __*Kevin Rue-Albrecht*__, Software Sustainability Institute Fellow, [University of Oxford](https://www.ox.ac.uk/), Oxford, 🇬🇧 United Kingdom
 
