@@ -56,12 +56,12 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 ## ELIXIR Single Cell Omics (SCO) Community afternoon session
 
 - **13:00 – 13:05**: welcome
-- **13:05 – 13:15**: SPODAverse: Spatial transcriptomic training 
-- **13:15 – 14:00**: ELIXIR SCO in European Biohackathons
+- **13:05 - 14:00**: ELIXIR SCO Training, EU Biohackathons, Inter-community collaborations
 - **14:00 – 14:10**: short break
-- **14:10 – 15:00**: Single-cell and spatial technologies in Biodiversity samples 
+- **14:10 – 15:00**: Spatial2Galaxy: Leveraging ELIXIR ecosystem for spatial transcriptomics
 - **15:00 – 15:10**: short break 
-- **15:10 – 15:55**: Perturbation modelling and community considerations
+- **15:10 – 15:50**: Unveiling causality in single-cell omics: Trajectories  and in silico perturbations in non-model organisms
+- **15:50 – 16:00**: Wrap-up and next steps
 
 ## scFAIR afternoon session
 
