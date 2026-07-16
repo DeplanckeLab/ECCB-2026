@@ -40,13 +40,14 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 - **09:00 – 09:10**: **Introduction - General info**
 - **09:10 – 09:20**: **Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization**
 - **09:20 – 09:30**: **Presentation of [scFAIR](https://www.sc-fair.org/) and connection to data standardization**
-- **09:30 – 10:20**: **Single-cell data and metadata standard for dataset deposition over multiple international resources, including:**
+- **09:30 – 10:25**: **Single-cell data and metadata standard for dataset deposition over multiple international resources, including:**
   - [CELLxGENE](https://cellxgene.cziscience.com/)
   - The [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home)
   - The [Alliance of Genome Resources](https://www.alliancegenome.org/)
   - [FAANG](https://data.faang.org/home)
   - [Bgee](https://www.bgee.org/)
-- **10:20 – 10:40**: **Open discussion on metadata and data standardization**
+  - [ASAP](https://asap.epfl.ch/)
+- **10:25 – 10:40**: **Open discussion on metadata and data standardization**
 - ☕**10:40 – 11:00**: **Coffee break**
 - **11:00 – 11:30**: **ELIXIR Interoperability Platform FAIRification Framework**
 - **11:30 – 12:00**: **Data and metadata curation best practices and coordination**
@@ -66,7 +67,6 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 ## scFAIR afternoon session
 
 - **13:00 – 13:30**: presentation of some of scFAIR outputs: 
-  - metadata schema
   - scFAIR portal connecting individual resources
   - how to connect your resource to scFAIR
 - **13:30 – 14:00**: Open discussion about analysis reproducibility issues and presentation of conclusions from previous scFAIR workshops
