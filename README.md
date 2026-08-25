@@ -49,9 +49,9 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
   - [FAANG](https://data.faang.org/home)
   - [Bgee](https://www.bgee.org/)
   - [ASAP](https://asap.epfl.ch/)
-- **11:25 – 11:40**: Open discussion on metadata and data standardization
-- **11:40 – 12:10**: ELIXIR Interoperability Platform FAIRification Framework
-- **12:10 – 12:30**: Data and metadata curation best practices and coordination
+- **11:25 – 11:55**: ELIXIR Interoperability Platform FAIRification Framework
+- **11:55 – 12:15**: Data and metadata curation best practices and coordination
+- **12:15 – 12:30**: Open discussion on metadata and data standardization
 
 ## Lunch Break
 - 🍽️**12:30 – 13:30**: **Lunch break**
