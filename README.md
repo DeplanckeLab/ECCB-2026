@@ -69,10 +69,9 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 - **13:30 – 14:00**: Presentation of scFAIR outputs 
   - scFAIR schema
-  - scFAIR analysis schema
   - scFAIR portal connecting individual resources
 - **14:00 – 14:30**: Tools and ecosystems for scFAIR
-  - [ASAP](https://asap.epfl.ch/) tool for reproducible analyses
+  - [ASAP](https://asap.epfl.ch/) tool for reproducible analyses & scFAIR analysis schema
   - scFAIR validator
 - **14:30 – 15:00**: Open discussion about analysis reproducibility issues and presentation of conclusions from previous scFAIR workshops
 - ☕**15:00 – 15:30**: Coffee break
