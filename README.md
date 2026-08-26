@@ -68,10 +68,13 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 ## scFAIR afternoon session
 
 - **13:30 – 14:00**: presentation of scFAIR outputs 
+  - scFAIR schema
   - scFAIR portal connecting individual resources
-  - how to connect your resource to scFAIR
-- **14:00 – 14:30**: Open discussion about analysis reproducibility issues and presentation of conclusions from previous scFAIR workshops
-- **14:30 – 15:00**: [ASAP](https://asap.epfl.ch/) tool for reproducible analyses, and compatibility with scFAIR
+- **14:00 – 14:30**: [ASAP](https://asap.epfl.ch/) tool for reproducible analyses
+  - ASAP presentation
+  - scFAIR validator
+  - scFAIR analysis schema
+- **14:30 – 15:00**: Open discussion about analysis reproducibility issues and presentation of conclusions from previous scFAIR workshops
 - ☕**15:00 – 15:30**: Coffee break
 - **15:30 – 16:00**: Bioconductor packages for single-cell analyses
 - **16:00 – 16:30**: Open discussion about single-cell analysis workflows across tool ecosystems
