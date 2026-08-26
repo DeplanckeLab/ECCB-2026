@@ -88,6 +88,7 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 - __*Wen Chen*__, highthroughput data curation team lead, [California Institute of Technology](https://www.caltech.edu/), Alliance of Genome Resources, Pasadena, 🇺🇸 USA
 - __*Christina Ernst*__, Functional Genomics Team Leader, [EMBL-EBI](https://www.ebi.ac.uk/), EBI Single Cell Expression Atlas, Cambridge, 🇬🇧 United Kingdom
 - __*Vincent Gardeux*__, Senior Scientist, [EPFL](https://www.epfl.ch/en/), scFAIR, ASAP, Lausanne, 🇨🇭 Switzerland
+- __*Fabrice David*__, Bioinformatician, [EPFL](https://www.epfl.ch/en/), scFAIR, ASAP, Lausanne, 🇨🇭 Switzerland
 - __*Georgios Gavriilidis*__, Senior Postdoctoral Fellow, [Berlin Institute of Health](https://www.bihealth.org/), ELIXIR Germany, SCO community lead, Berlin, 🇩🇪 Germany
 - __*Jason Hilton*__, Senior Research Engineer, [Standford University](https://www.stanford.edu/), CELLxGENE, Stanford, 🇺🇸 USA
 - __*Garth Ilsley*__, Ensembl Regulation Project Leader, [EMBL-EBI](https://www.ebi.ac.uk/), FAANG, Cambridge, 🇬🇧 United Kingdom
