@@ -37,21 +37,21 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 ## Morning session (shared session between ELIXIR and scFAIR)
 
-- **09:30 – 09:40**: Introduction - General info
-- **09:40 – 09:50**: Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization
-- **09:50 – 10:00**: Presentation of [scFAIR](https://www.sc-fair.org/) and connection to data standardization
-- **10:00 – 10:30**: Single-cell data and metadata standard for dataset deposition over multiple international resources session 1
-  - [CZ CELLxGENE Discover](https://cellxgene.cziscience.com/)
-  - [EMBL-EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home)
+- **09:00 – 09:10**: Introduction - General info
+- **09:10 – 09:25**: Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization
+- Slides [Katharina Heil](https://docs.google.com/presentation/d/1T4Y1cBhY2YGSNyCwLg7rAYqLGoIAWNvFJT9iwcOUicQ/edit?slide=id.p1#slide=id.p1)
+- **09:25 – 09:35**: Presentation of [scFAIR](https://www.sc-fair.org/) and connection to data standardization
+- **09:35 – 10:30**: Single-cell data and metadata standard for dataset deposition over multiple international resources session 1
+  - [CELLxGENE](https://cellxgene.cziscience.com/)
+  - [The EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home)
   - [Alliance of Genome Resources](https://www.alliancegenome.org/)
-- ☕**10:30 – 11:00**: **Coffee break**
-- **11:00 – 11:25**: Single-cell data and metadata standard for dataset deposition over multiple international resources session 2
   - [FAANG](https://data.faang.org/home)
   - [Bgee](https://www.bgee.org/)
   - [ASAP](https://asap.epfl.ch/)
-- **11:25 – 11:55**: ELIXIR Interoperability Platform FAIRification Framework
-- **11:55 – 12:15**: Data and metadata curation best practices and coordination
-- **12:15 – 12:30**: Open discussion on metadata and data standardization
+- ☕**10:30 – 11:00**: **Coffee break**
+- **11:00 – 11:30**: ELIXIR Interoperability Platform FAIRification Framework
+- **11:30 – 12:00**: Data and metadata curation best practices and coordination
+- **12:00 – 12:30**: Q&A, Open discussion on metadata and data standardization
 
 ## Lunch Break
 - 🍽️**12:30 – 13:30**: **Lunch break**
