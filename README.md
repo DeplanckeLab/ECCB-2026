@@ -39,7 +39,7 @@ This event is a perfect opportunity to gather participants face-to-face, to impr
 
 - **09:00 – 09:10**: Introduction - General info
 - **09:10 – 09:25**: Presentation of the [ELIXIR Single-Cell Omics community](https://www.singlecellomics.org) and connection to data standardization
-- Slides [Katharina Heil](https://docs.google.com/presentation/d/1T4Y1cBhY2YGSNyCwLg7rAYqLGoIAWNvFJT9iwcOUicQ/edit?slide=id.p1#slide=id.p1)
+  - Slides [Katharina Heil](https://docs.google.com/presentation/d/1T4Y1cBhY2YGSNyCwLg7rAYqLGoIAWNvFJT9iwcOUicQ/edit?slide=id.p1#slide=id.p1)
 - **09:25 – 09:35**: Presentation of [scFAIR](https://www.sc-fair.org/) and connection to data standardization
 - **09:35 – 10:30**: Single-cell data and metadata standard for dataset deposition over multiple international resources session 1
   - [CELLxGENE](https://cellxgene.cziscience.com/)
